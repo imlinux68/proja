@@ -1,1 +1,2 @@
- this is file from develop branching
+this is file from testfor conflict branch
+
