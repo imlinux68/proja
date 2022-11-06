@@ -7,3 +7,4 @@ this is file from testfor conflict branch
 how are you? 
 `
 >>>>>>> testforconflict
+this is third line to check
